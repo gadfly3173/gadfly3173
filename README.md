@@ -4,6 +4,11 @@
 - 🌱 I’m currently using Vue3(TypeScript) and Spring Boot(Java)
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 [![Gadfly's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadfly3173&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
