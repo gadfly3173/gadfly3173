@@ -8,7 +8,7 @@
 
 [![Gadfly's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadfly3173&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadfly3173&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadfly3173&theme=material-palenight&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gadfly3173/gadfly3173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
