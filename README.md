@@ -6,7 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 02 June 2022 - To: 09 June 2022
+
+Vue.js   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
