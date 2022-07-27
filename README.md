@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Full-Stack Web Developer at [DAKE](https://www.getplay.cn/).
-- 🌱 I’m currently using Vue3(TypeScript) and Spring Boot(Java)
+- 🔭 I’m currently a Full-Stack Web Developer at Homolo.
+- 🌱 I’m currently using Spring Boot(Java)
 
 <!--START_SECTION:waka-->
 
