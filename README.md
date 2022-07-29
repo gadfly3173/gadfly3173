@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Full-Stack Web Developer at Homolo.
+- 🔭 I’m currently a Technology Engineer at [Homolo](http://homolo.com).
 - 🌱 I’m currently using Spring Boot(Java)
 
 <!--START_SECTION:waka-->
