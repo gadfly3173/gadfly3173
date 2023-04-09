@@ -4,9 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "*/30 * * * *"
-  push:
-    branches:
-      - master
 
 env:
   GIT_USER: Gadfly
@@ -51,7 +48,13 @@ jobs:
         run: |
           yarn notify-anime -mailUser="${{ secrets.MAIL_USER }}" -mailPass="${{ secrets.MAIL_PASS }}" -mailTo="${{ secrets.MAIL_TO }}"
 
+      - name: Check if there are any changes
+        id: verify_diff
+        run: |
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+
       - name: submit updated files
+        if: steps.verify_diff.outputs.changed == 'true'
         run: |
           git add -A
           git commit -m "update anime"
