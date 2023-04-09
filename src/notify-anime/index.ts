@@ -20,12 +20,9 @@ async function main() {
   moment.locale('zh-cn');
   const params = getParams();
   const mailUser = params["mailUser"]?.toString();
-  // DSfqSzYbDaBnVsJA
   const mailPass = params["mailPass"]?.toString();
   const mailTo = params["mailTo"]?.toString();
-  console.log('mailUser', mailUser);
-  console.log('mailPass', mailPass);
-  console.log('mailTo', mailTo);
+  const mailFrom = params["mailFrom"]?.toString();
 
   // 获取当前路径下的rss-list.txt文件，读取文件内容，将文件内容按行分割，然后将每一行的内容添加到rssList数组中。
   const rssJson: { name: string, link: string }[] = JSON.parse(fs.readFileSync(__dirname + '/rss-list.json', 'utf-8'));
@@ -97,7 +94,7 @@ async function main() {
     });
   }
   await transporter.sendMail({
-    from: `"Gadfly Anime Github" <${mailTo}>`, // 发送方邮箱的账号
+    from: `"Gadfly Anime Github" <${mailFrom}>`, // 发送方邮箱的账号
     to: mailTo, // 邮箱接受者的账号
     subject: mailSubject, // Subject line
     text: mailText, // 文本内容

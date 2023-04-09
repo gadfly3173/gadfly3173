@@ -3,7 +3,7 @@ name: 提醒动画更新
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0/30 8-23 * * *"
 
 env:
   GIT_USER: Gadfly
@@ -46,7 +46,7 @@ jobs:
 
       - name: execute script
         run: |
-          yarn notify-anime -mailUser="${{ secrets.MAIL_USER }}" -mailPass="${{ secrets.MAIL_PASS }}" -mailTo="${{ secrets.MAIL_TO }}"
+          yarn notify-anime -mailUser="${{ secrets.MAIL_USER }}" -mailPass="${{ secrets.MAIL_PASS }}" -mailFrom="${{ secrets.MAIL_FROM }}" -mailTo="${{ secrets.MAIL_TO }}"
 
       - name: Check if there are any changes
         id: verify_diff
