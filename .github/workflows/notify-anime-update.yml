@@ -1,0 +1,59 @@
+name: 提醒动画更新
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+  push:
+    branches:
+      - master
+
+env:
+  GIT_USER: Gadfly
+  GIT_EMAIL: gadfly@gadfly.vip
+  TZ: Asia/Shanghai
+
+jobs:
+  notify-anime-update:
+    name: 提醒动画更新 on node ${{ matrix.node-version }} and ${{ matrix.os }}
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+        node-version: [16.x]
+
+    steps:
+      - name: Setup Git
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
+      - name: Install SSH key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.DEPLOY_PRI }}
+          known_hosts: 'github.com'
+
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: yarn
+
+      - name: Install dependencies
+        run: |
+          yarn
+
+      - name: execute script
+        run: |
+          cd ./script/notify-anime
+          npx ts-node index.ts -mailUser="${{ secrets.MAIL_USER }}" -mailPass="${{ secrets.MAIL_PASS }}" -mailTo="${{ secrets.MAIL_TO }}"
+
+      - name: submit updated files
+        run: |
+          git add -A
+          git commit -m "update anime"
+          git push
