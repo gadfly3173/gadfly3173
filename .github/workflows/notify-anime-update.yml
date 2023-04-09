@@ -49,8 +49,7 @@ jobs:
 
       - name: execute script
         run: |
-          cd ./script/notify-anime
-          npx ts-node index.ts -mailUser="${{ secrets.MAIL_USER }}" -mailPass="${{ secrets.MAIL_PASS }}" -mailTo="${{ secrets.MAIL_TO }}"
+          yarn notify-anime -mailUser="${{ secrets.MAIL_USER }}" -mailPass="${{ secrets.MAIL_PASS }}" -mailTo="${{ secrets.MAIL_TO }}"
 
       - name: submit updated files
         run: |
