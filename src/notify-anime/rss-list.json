@@ -1,13 +1,5 @@
 [
   {
-    "name": "地狱乐",
-    "link": "https://mikanani.me/RSS/Search?searchstr=地狱乐+喵萌+1080+简"
-  },
-  {
-    "name": "水星的魔女S2",
-    "link": "https://mikanani.me/RSS/Search?searchstr=Lilith-Raws+水星的魔女+S02"
-  },
-  {
     "name": "堀与宫村 -piece-",
     "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3094&subgroupid=583"
   },
@@ -22,5 +14,9 @@
   {
     "name": "我喜欢的女孩忘记戴眼镜",
     "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3093&subgroupid=583"
+  },
+  {
+    "name": "能干猫今天也忧郁",
+    "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3100&subgroupid=583"
   }
 ]
