@@ -96,8 +96,8 @@ async function main() {
   await transporter.sendMail({
     from: `"Gadfly Anime Github" <${mailFrom}>`, // 发送方邮箱的账号
     to: mailTo, // 邮箱接受者的账号
-    subject: encodeURIComponent(mailSubject), // Subject line
-    text: encodeURIComponent(mailText), // 文本内容
+    subject: mailSubject, // Subject line
+    text: mailText, // 文本内容
   });
   console.log("邮件发送成功");
   mailInfoList.forEach(mailInfo => {
