@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2023 - To: 20 October 2023
+From: 14 October 2023 - To: 21 October 2023
 
 Java              17 hrs 32 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀   89.96 %
 JavaScript        45 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.85 %
