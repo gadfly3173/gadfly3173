@@ -56,10 +56,6 @@
     "name": "BanG Dream! It's MyGO"
   },
   {
-    "guid": "[ANi] Hoshikuzu Telepath -  星灵感应 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "星灵感应"
-  },
-  {
     "guid": "[ANi]  赛马娘 Pretty Derby 第三季 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "赛马娘 Pretty Derby 第三季"
   },
@@ -78,5 +74,9 @@
   {
     "guid": "[北宇治字幕组] 偶像大师 百万现场！ / THE iDOLM@STER MILLION LIVE! [03][WebRip][1080p][AVC_AAC][简中无障碍内嵌]",
     "name": "偶像大师 百万现场"
+  },
+  {
+    "guid": "[ANi] Hoshikuzu Telepath -  星灵感应 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "name": "星灵感应"
   }
 ]
