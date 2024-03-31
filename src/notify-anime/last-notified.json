@@ -72,10 +72,6 @@
     "name": "16bit的感动"
   },
   {
-    "guid": "[北宇治字幕组] 偶像大师 百万现场！第1幕 / 偶像大师 百万人演唱会！第1幕/ THE iDOLM@STER MILLION LIVE! Act-1 [BDRip][1080p][HEVC AC3 DTS-HD MA 3.1][简繁日内封]",
-    "name": "偶像大师 百万现场"
-  },
-  {
     "guid": "[ANi] Sasaki to Pchan /  佐佐木与文鸟小哔 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "佐佐木与文鸟小哔"
   },
@@ -86,5 +82,9 @@
   {
     "guid": "【喵萌奶茶屋】★01月新番★[迷宫饭 / Dungeon Meshi / Delicious in Dungeon][13][1080p][繁日双语][招募翻译时轴]",
     "name": "迷宫饭"
+  },
+  {
+    "guid": "[北宇治字幕组] 偶像大师 百万现场！ / THE iDOLM@STER MILLION LIVE! [SP][BDRip][1080p][HEVC_AAC][简日内嵌]",
+    "name": "偶像大师 百万现场"
   }
 ]
