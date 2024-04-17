@@ -104,10 +104,6 @@
     "name": "无职转生S2"
   },
   {
-    "guid": "[ANi]  约会大作战 DATE A LIVE V - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "约会大作战 第五季"
-  },
-  {
     "guid": "【喵萌奶茶屋】★04月新番★[恋语轻唱 / 恰如细语般的恋歌 / ささやくように恋を呗う / Sasayaku You ni Koi wo Utau][01][1080p][繁日双语][招募翻译时轴]",
     "name": "恋语轻唱"
   },
@@ -122,5 +118,9 @@
   {
     "guid": "[北宇治字幕组] 终末列车去往何方?/ 末班列车去哪里?/ Shuumatsu Train Doko e Iku [03][WebRip][HEVC_AAC][繁体内嵌]",
     "name": "末班列车去哪里了？"
+  },
+  {
+    "guid": "[ANi] Date a Live /  约会大作战 DATE A LIVE V - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "name": "约会大作战 第五季"
   }
 ]
