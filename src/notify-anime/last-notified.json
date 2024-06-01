@@ -80,10 +80,6 @@
     "name": "偶像大师 百万现场"
   },
   {
-    "guid": "【喵萌奶茶屋】★01月新番★[迷宫饭 / Dungeon Meshi / Delicious in Dungeon][21][1080p][繁日双语][招募翻译时轴]",
-    "name": "迷宫饭"
-  },
-  {
     "guid": "[ANi] Yoru no Kurage wa Oyogenai /  夜晚的水母不会游泳 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "夜晚的水母不会游泳"
   },
@@ -116,11 +112,15 @@
     "name": "怪人的沙拉碗"
   },
   {
-    "guid": "【喵萌Production】★04月新番★[GIRLS BAND CRY][09][1080p][简日双语][招募翻译]",
-    "name": "GIRLS BAND CRY"
-  },
-  {
     "guid": "[ANi] Ooi Tonbo /  蜻蛉高球 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "喂！蜻蜓"
+  },
+  {
+    "guid": "【喵萌奶茶屋】★01月新番★[迷宫饭 / Dungeon Meshi / Delicious in Dungeon][22][1080p][繁日双语][招募翻译时轴]",
+    "name": "迷宫饭"
+  },
+  {
+    "guid": "【喵萌Production】★04月新番★[GIRLS BAND CRY][09][1080p][繁日双语][招募翻译时轴]",
+    "name": "GIRLS BAND CRY"
   }
 ]
