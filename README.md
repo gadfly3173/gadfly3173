@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Technology Engineer at [Homolo](http://homolo.com).
+- 🔭 I’m currently a Technology Engineer at [Homolo](https://www.homolo.com/).
 - 🌱 I’m currently using Spring Boot(Java)
 
 <!--START_SECTION:waka-->
