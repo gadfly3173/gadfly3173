@@ -120,16 +120,8 @@
     "name": "吹响！悠风号 第三季"
   },
   {
-    "guid": "[ANi] SHOSHIMIN How to Become Ordinary /  小市民系列 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "小市民系列"
-  },
-  {
     "guid": "[ANi] Shikanoko Nokonoko Koshitantan /  鹿乃子乃子乃子虎视眈眈 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "鹿乃子乃子乃子虎视眈眈"
-  },
-  {
-    "guid": "[ANi] Make Heroine ga Oosugiru /  败北女角太多了！ - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "败犬女主太多了"
   },
   {
     "guid": "[北宇治字幕组] 亚托莉 -我挚爱的时光- / ATRI -My Dear Moments- [01][WebRip][HEVC_AAC][简繁内封][招募时轴]",
@@ -156,10 +148,6 @@
     "name": "尼尔：自动人形 Ver1.1a 第2部分"
   },
   {
-    "guid": "【喵萌奶茶屋】★07月新番★[成菜成花 / 亦叶亦花 / 变成菜变成花 / 少女如草花绽放 / 菜なれ花なれ / Na Nare Hana Nare][02][1080p][简日双语][招募翻译时轴]",
-    "name": "亦叶亦花"
-  },
-  {
     "guid": "[ANi] Bakemonogatari /  物语系列 第外季＆第怪季 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "愚物语&抚物语"
   },
@@ -174,5 +162,17 @@
   {
     "guid": "[Up to 21°C] 擅长逃跑的殿下 / Nige Jouzu no Wakagimi - 03 (CR 1920x1080 AVC AAC MKV)",
     "name": "擅长逃跑的殿下"
+  },
+  {
+    "guid": "[ANi] SHOSHIMIN How to Become Ordinary /  小市民系列 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "name": "小市民系列"
+  },
+  {
+    "guid": "【喵萌奶茶屋】★07月新番★[成菜成花 / 亦叶亦花 / 变成菜变成花 / 少女如草花绽放 / 菜なれ花なれ / Na Nare Hana Nare][02][1080p][繁日双语][招募翻译时轴]",
+    "name": "亦叶亦花"
+  },
+  {
+    "guid": "[ANi] Make Heroine ga Oosugiru /  败北女角太多了！ - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "name": "败犬女主太多了"
   }
 ]
