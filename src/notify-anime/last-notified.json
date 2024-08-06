@@ -124,10 +124,6 @@
     "name": "狼与香辛料 行商邂逅贤狼"
   },
   {
-    "guid": "[ANi]  曾经、魔法少女和邪恶相互为敌。 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "魔法少女与恶曾是敌人"
-  },
-  {
     "guid": "[ANi] Shikanoko Nokonoko Koshitantan /  鹿乃子乃子乃子虎视眈眈 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "鹿乃子乃子乃子虎视眈眈"
   },
@@ -156,10 +152,6 @@
     "name": "天穗之咲稻姬"
   },
   {
-    "guid": "[Up to 21°C] 擅长逃跑的殿下 / Nige Jouzu no Wakagimi - 05 (CR 1920x1080 AVC AAC MKV)",
-    "name": "擅长逃跑的殿下"
-  },
-  {
     "guid": "[ANi] SHOSHIMIN How to Become Ordinary /  小市民系列 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "小市民系列"
   },
@@ -178,5 +170,13 @@
   {
     "guid": "【喵萌奶茶屋】★07月新番★[深夜重拳 / Mayonaka Punch][05][1080p][繁日双语][招募翻译时轴]",
     "name": "深夜冲击"
+  },
+  {
+    "guid": "[Up to 21°C] 擅长逃跑的殿下 / Nige Jouzu no Wakagimi - 05 (ABEMA 1280x720 AVC AAC MP4)",
+    "name": "擅长逃跑的殿下"
+  },
+  {
+    "guid": "[ANi]  曾经、魔法少女和邪恶相互为敌。 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "name": "魔法少女与恶曾是敌人"
   }
 ]
