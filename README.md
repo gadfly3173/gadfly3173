@@ -4,36 +4,19 @@
 - 🌱 I’m currently using Spring Boot(Java)
 
 ### Languages and Tools
-<div>  
-  <a href="https://github.com/gadfly3173" target="_blank" ref="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" ref="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode Logo" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" ref="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" ref="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS Logo" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" ref="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp Logo" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com" target="_blank" ref="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET Logo" width="40" height="40"/>
-  </a>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,vue,angular,dotnet,cs,git,github,gitlab,idea,rider,vscode,linux)](https://skillicons.dev)
 
 ### Contact me
 
 <div>
   <a href="mailto:gadfly@gadfly.vip">
     <picture>
-      <img src="https://img.shields.io/badge/gadfly%40gadfly.vip-6D4AFF?style=for-the-badge&logo=protonmail&labelColor=1b1340" alt="ProtonMail Logo. Written next to it: nilspvr@pm.me">
+      <img src="https://img.shields.io/badge/gadfly%40gadfly.vip-6D4AFF?style=for-the-badge&logo=protonmail&labelColor=1b1340" alt="Email">
+    </picture>
+  </a>
+  <a href="https://blog.gadfly.vip/">
+    <picture>
+      <img src="https://img.shields.io/badge/https%3A%2F%2Fblog.gadfly.vip%2F-6D4AFF?style=for-the-badge&logo=blogger&labelColor=1b1340" alt="My Blog">
     </picture>
   </a>
 </div>
