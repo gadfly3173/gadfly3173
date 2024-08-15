@@ -120,26 +120,6 @@
     "name": "吹响！悠风号 第三季"
   },
   {
-    "guid": "[ANi] NieRAutomata Ver11a /  尼尔：自动人形 Ver1.1a - 17 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "尼尔：自动人形 Ver1.1a 第2部分"
-  },
-  {
-    "guid": "[ANi] Bakemonogatari /  物语系列 第外季＆第怪季 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "愚物语&抚物语"
-  },
-  {
-    "guid": "[ANi] Sakuna Of Rice and Ruin /  天穗之咲稻姬 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "天穗之咲稻姬"
-  },
-  {
-    "guid": "[ANi] SHOSHIMIN How to Become Ordinary /  小市民系列 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "小市民系列"
-  },
-  {
-    "guid": "[ANi] Make Heroine ga Oosugiru /  败北女角太多了！ - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "败犬女主太多了"
-  },
-  {
     "guid": "【喵萌奶茶屋】★07月新番★[成菜成花 / 亦叶亦花 / 变成菜变成花 / 少女如草花绽放 / 菜なれ花なれ / Na Nare Hana Nare][04][1080p][繁日双语][招募翻译时轴]",
     "name": "亦叶亦花"
   },
@@ -152,20 +132,12 @@
     "name": "恶魔的破坏"
   },
   {
-    "guid": "[ANi] The Elusive Samurai /  擅长逃跑的殿下 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "擅长逃跑的殿下"
-  },
-  {
     "guid": "【幻之字幕组】狼与香辛料 行商邂逅贤狼 19/狼と香辛料 MERCHANT MEETS THE WISE WOLF - 19 [简中][1080p][HEVC]",
     "name": "狼与香辛料 行商邂逅贤狼"
   },
   {
     "guid": "[北宇治字幕组] 亚托莉 -我挚爱的时光- / ATRI -My Dear Moments- [05][WebRip][HEVC_AAC][繁体内嵌][招募时轴]",
     "name": "亚托莉 -我挚爱的时光-"
-  },
-  {
-    "guid": "[ANi] 曾经、魔法少女和邪恶相互为敌。 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT]",
-    "name": "魔法少女与恶曾是敌人"
   },
   {
     "guid": "[ANi] Oshi No Ko /  【我推的孩子】 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
@@ -178,5 +150,33 @@
   {
     "guid": "[ANi]  不时轻声地以俄语遮羞的邻座艾莉同学 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "不时用俄语小声说真心话的邻桌艾莉同学"
+  },
+  {
+    "guid": "[ANi] 尼尔：自动人形 Ver1.1a - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4",
+    "name": "尼尔：自动人形 Ver1.1a 第2部分"
+  },
+  {
+    "guid": "[ANi] 擅长逃跑的殿下 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][V2].mp4",
+    "name": "擅长逃跑的殿下"
+  },
+  {
+    "guid": "[ANi] 小市民系列 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4",
+    "name": "小市民系列"
+  },
+  {
+    "guid": "[ANi] 天穗之咲稻姬 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4",
+    "name": "天穗之咲稻姬"
+  },
+  {
+    "guid": "[ANi] 物语系列 第外季＆第怪季 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4",
+    "name": "愚物语&抚物语"
+  },
+  {
+    "guid": "[ANi] 败北女角太多了！ - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4",
+    "name": "败犬女主太多了"
+  },
+  {
+    "guid": "[ANi] 曾经、魔法少女和邪恶相互为敌。 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4",
+    "name": "魔法少女与恶曾是敌人"
   }
 ]
