@@ -132,10 +132,6 @@
     "name": "愚物语&抚物语"
   },
   {
-    "guid": "[桜都字幕组] 亦叶亦花 / Nanare Hananare [09][1080p][简繁内封]",
-    "name": "亦叶亦花"
-  },
-  {
     "guid": "[ANi] NieRAutomata Ver11a /  尼尔：自动人形 Ver1.1a - 21 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "尼尔：自动人形 Ver1.1a 第2部分"
   },
@@ -178,5 +174,9 @@
   {
     "guid": "[ANi] Oshi No Ko /  【我推的孩子】 - 21 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "【我推的孩子】 第二季"
+  },
+  {
+    "guid": "[桜都字幕组] 亦叶亦花 / Nanare Hananare [10][1080p][简繁内封]",
+    "name": "亦叶亦花"
   }
 ]
