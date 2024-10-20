@@ -172,10 +172,6 @@
     "name": "恶魔的破坏"
   },
   {
-    "guid": "【喵萌奶茶屋】★10月新番★[青箱 / Ao no Hako / Blue Box][03][1080p][繁日双语][招募翻译]",
-    "name": "青之箱"
-  },
-  {
     "guid": "[北宇治字幕组] 亚托莉 -我挚爱的时光- / ATRI -My Dear Moments- [13][WebRip][HEVC_AAC][繁体内嵌][招募时轴]",
     "name": "亚托莉 -我挚爱的时光-"
   },
@@ -204,7 +200,11 @@
     "name": "刀剑神域外传 Gun Gale Online 第二季"
   },
   {
-    "guid": "【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][03][1080p][繁日双语][招募翻译]",
+    "guid": "【喵萌奶茶屋】★10月新番★[青箱 / Ao no Hako / Blue Box][04][1080p][简日双语][招募翻译]",
+    "name": "青之箱"
+  },
+  {
+    "guid": "【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][03][1080p][简繁日内封][招募翻译]",
     "name": "地。-关于地球的运动-"
   }
 ]
