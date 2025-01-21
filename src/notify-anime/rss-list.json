@@ -33,6 +33,9 @@
   },
   {
     "name": "灰色：幻影扳机",
-    "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3536&subgroupid=203"
+    "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3536&subgroupid=513",
+    "excludeKeywords": [
+      "繁"
+    ]
   }
 ]
