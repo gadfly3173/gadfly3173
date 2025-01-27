@@ -10,14 +10,10 @@
 
 <div>
   <a href="mailto:gadfly@gadfly.vip">
-    <picture>
-      <img src="https://img.shields.io/badge/gadfly%40gadfly.vip-6D4AFF?style=for-the-badge&logo=protonmail&labelColor=1b1340" alt="Email">
-    </picture>
+    <img src="https://img.shields.io/badge/gadfly%40gadfly.vip-6D4AFF?style=for-the-badge&logo=protonmail&labelColor=1b1340" alt="Email">
   </a>
   <a href="https://blog.gadfly.vip/">
-    <picture>
       <img src="https://img.shields.io/badge/https%3A%2F%2Fblog.gadfly.vip%2F-6D4AFF?style=for-the-badge&logo=blogger&labelColor=1b1340" alt="My Blog">
-    </picture>
   </a>
 </div>
 
