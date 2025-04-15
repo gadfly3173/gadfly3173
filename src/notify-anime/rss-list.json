@@ -26,6 +26,11 @@
     "excludeKeywords": ["繁"]
   },
   {
+    "name": "机动战士高达 GQuuuuuuX",
+    "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3585&subgroupid=357",
+    "excludeKeywords": ["繁"]
+  },
+  {
     "name": "拉撒路",
     "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3624&subgroupid=583"
   },
@@ -36,5 +41,9 @@
   {
     "name": "九龙大众浪漫",
     "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3607&subgroupid=583"
+  },
+  {
+    "name": "时光流逝，饭菜依旧美味",
+    "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3623&subgroupid=583"
   }
 ]
