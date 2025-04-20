@@ -232,14 +232,6 @@
     "name": "天久鹰央的推理病历表"
   },
   {
-    "guid": "[ANi]  小市民系列 第二季 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "小市民系列 第二季"
-  },
-  {
-    "guid": "[ANi] mono /  mono女孩 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "mono女孩"
-  },
-  {
     "guid": "[ANi] Witch Watch /  WITCH WATCH 魔女守护者 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "魔女守护者"
   },
@@ -250,10 +242,6 @@
   {
     "guid": "[ANi] ZatsuTabi Thats Journey /  随兴旅－That′s Journey－ - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "随兴旅-That's Journey-"
-  },
-  {
-    "guid": "[ANi] Food for the Soul /  岁月流逝饭菜依旧美味 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "时光流逝，饭菜依旧美味"
   },
   {
     "guid": "【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][03][1080p][简日双语][招募翻译时轴]",
@@ -274,5 +262,17 @@
   {
     "guid": "[ANi] KOWLOON GENERIC ROMANCE /  九龙大众浪漫 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "九龙大众浪漫"
+  },
+  {
+    "guid": "[ANi]  小市民系列 第二季 - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "name": "小市民系列 第二季"
+  },
+  {
+    "guid": "[ANi] mono /  mono女孩 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "name": "mono女孩"
+  },
+  {
+    "guid": "[ANi] Food for the Soul /  岁月流逝饭菜依旧美味 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "name": "时光流逝，饭菜依旧美味"
   }
 ]
