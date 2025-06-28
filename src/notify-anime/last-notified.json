@@ -236,10 +236,6 @@
     "name": "直至魔女消逝"
   },
   {
-    "guid": "[ANi] KOWLOON GENERIC ROMANCE /  九龙大众浪漫 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "九龙大众浪漫"
-  },
-  {
     "guid": "[ANi]  小市民系列 第二季 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "小市民系列 第二季"
   },
@@ -274,5 +270,9 @@
   {
     "guid": "[ANi] Your Forma /  记忆缝线 YOUR FORMA - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "记忆缝线"
+  },
+  {
+    "guid": "[ANi] KOWLOON GENERIC ROMANCE /  九龙大众浪漫 - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "name": "九龙大众浪漫"
   }
 ]
