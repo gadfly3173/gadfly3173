@@ -33,7 +33,7 @@ async function main() {
   }[] = JSON.parse(fs.readFileSync(__dirname + "/rss-list.json", "utf-8"));
   // Array of valid RSS URLs
   console.log("订阅列表\n", rssJson);
-  const notifiedJson: { guid: string; name: string }[] = JSON.parse(
+  const notifiedJson: { guid: string; name: string; time: string; }[] = JSON.parse(
     fs.readFileSync(__dirname + "/last-notified.json", "utf-8")
   );
 
@@ -156,6 +156,7 @@ async function main() {
       notifiedJson.push({
         guid: mailInfo.guid,
         name: mailInfo.name,
+        time: moment(mailInfo.pubDate).format("YYYY-MM-DD HH:mm:ss"),
       });
     }
   });
