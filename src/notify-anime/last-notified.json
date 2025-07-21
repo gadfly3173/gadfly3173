@@ -272,11 +272,6 @@
     "name": "拉撒路"
   },
   {
-    "guid": "[LoliHouse] 神椿市建设中。 / Kamitsubaki City Under Construction / 神椿市建设中。 - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]",
-    "name": "神椿市建设中。",
-    "time": "2025-07-05 01:49:50"
-  },
-  {
     "guid": "[ANi] Dan Da Dan S02 /  胆大党 第二季 - 15 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "胆大党 第二季",
     "time": "2025-07-04 00:01:09"
@@ -298,5 +293,10 @@
   {
     "guid": "[ANi] Witch Watch /  WITCH WATCH 魔女守护者 - 16 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "魔女守护者"
+  },
+  {
+    "guid": "[神椿观测站&LoliHouse] 神椿市建设中。 / Kamitsubaki City Under Construction / 神椿市建设中。 - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]",
+    "name": "神椿市建设中。",
+    "time": "2025-07-05 01:49:50"
   }
 ]
