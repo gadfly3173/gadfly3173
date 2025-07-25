@@ -272,11 +272,6 @@
     "name": "拉撒路"
   },
   {
-    "guid": "[ANi] Yofukashi no Uta /  彻夜之歌 Season 2 - 16 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "彻夜之歌 第二季",
-    "time": "2025-07-05 00:00:57"
-  },
-  {
     "guid": "[ANi]  Silent Witch 沉默魔女的秘密 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "沉默魔女的秘密",
     "time": "2025-07-05 00:30:51"
@@ -298,5 +293,10 @@
   {
     "guid": "[ANi] Takopis Original Sin /  章鱼哔的原罪 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "章鱼哔的原罪"
+  },
+  {
+    "guid": "[ANi] Yofukashi no Uta /  彻夜之歌 Season 2 - 17 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "name": "彻夜之歌 第二季",
+    "time": "2025-07-05 00:00:57"
   }
 ]
