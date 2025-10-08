@@ -1,0 +1,8 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["/src/notify-anime/rss-list.json"],
+      "url": "./src/notify-anime/rss-list.schema.json"
+    }
+  ]
+}

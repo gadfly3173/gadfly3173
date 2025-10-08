@@ -1,0 +1,41 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "RSS list configuration",
+  "description": "配置一组要监控的 RSS 源。每项为对象，至少包含 name 和 link。",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "显示用的名称"
+      },
+      "link": {
+        "type": "string",
+        "format": "uri",
+        "description": "RSS 源的 URL（以 http/https 开头）"
+      },
+      "excludeKeywords": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "排除包含这些关键词的条目"
+      },
+      "includeKeywords": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "只包含包含这些关键词的条目（可选）"
+      },
+      "tags": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "可选的标签，用于分组/筛选"
+      },
+      "enabled": {
+        "type": "boolean",
+        "description": "是否启用该 RSS 配置，默认 true"
+      }
+    },
+    "required": ["name", "link"],
+    "additionalProperties": true
+  }
+}
