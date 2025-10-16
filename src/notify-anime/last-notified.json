@@ -340,11 +340,6 @@
     "name": "魔女守护者"
   },
   {
-    "guid": "[ANi] Dusk Beyond the End of the World /  永远的黄昏 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "永远的黄昏",
-    "time": "2025-10-03 00:01:16"
-  },
-  {
     "guid": "[ANi] SPY x FAMILY /  SPY×FAMILY 间谍家家酒 Season 3 - 39 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "间谍过家家S3",
     "time": "2025-10-04 23:02:09"
@@ -368,5 +363,10 @@
     "guid": "[ANi] Yanokuns Ordinary Days /  矢野同学的普通日常 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "矢野同学的普通日常",
     "time": "2025-09-30 17:36:00"
+  },
+  {
+    "guid": "[ANi] Dusk Beyond the End of the World /  永远的黄昏 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "name": "永远的黄昏",
+    "time": "2025-10-03 00:01:16"
   }
 ]
