@@ -366,11 +366,6 @@
     "time": "2025-10-04 23:02:09"
   },
   {
-    "guid": "[ANi] GNOSIA /  GNOSIA - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "古诺希亚",
-    "time": "2025-10-26 00:31:47"
-  },
-  {
     "guid": "[ANi]  这里是充满笑容的职场。 - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "这里是充满笑容的职场。",
     "time": "2025-10-20 22:03:06"
@@ -398,5 +393,10 @@
   {
     "guid": "[ANi] Fatestrange Fake /  Fate／strange Fake - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "Fate/strange Fake"
+  },
+  {
+    "guid": "[ANi] GNOSIA /  GNOSIA - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "name": "古诺希亚",
+    "time": "2025-10-26 00:31:47"
   }
 ]
