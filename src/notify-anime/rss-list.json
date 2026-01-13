@@ -22,5 +22,20 @@
   {
     "name": "咒术回战 死灭回游 前篇",
     "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3847&subgroupid=583"
+  },
+  {
+    "name": "相反的你和我",
+    "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3849&subgroupid=583"
+  },
+  {
+    "name": "神八小妹不可怕",
+    "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3856&subgroupid=583"
+  },
+  {
+    "name": "地狱乐 第二季",
+    "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3846&subgroupid=243",
+    "excludeKeywords": [
+      "繁"
+    ]
   }
 ]
