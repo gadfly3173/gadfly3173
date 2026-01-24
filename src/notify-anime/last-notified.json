@@ -371,10 +371,6 @@
     "time": "2025-10-20 22:03:06"
   },
   {
-    "guid": "[ANi] Fatestrange Fake /  Fate／strange Fake - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "Fate/strange Fake"
-  },
-  {
     "guid": "[ANi] GNOSIA /  GNOSIA - 14 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "古诺希亚",
     "time": "2025-10-26 00:31:47"
@@ -433,5 +429,9 @@
     "guid": "[ANi] Sousou no Frieren S02 /  葬送的芙莉莲 第二季 - 30 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "葬送的芙莉莲 第二季",
     "time": "2026-01-16 23:01:47"
+  },
+  {
+    "guid": "[ANi] Fatestrange Fake /  Fate／strange Fake - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "name": "Fate/strange Fake"
   }
 ]
