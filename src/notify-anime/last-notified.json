@@ -381,10 +381,6 @@
     "time": "2025-10-26 00:31:47"
   },
   {
-    "guid": "[ANi] Fatestrange Fake /  Fate／strange Fake - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "Fate/strange Fake"
-  },
-  {
     "guid": "[ANi] You and I Are Polar Opposites /  相反的你和我 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "相反的你和我",
     "time": "2026-01-11 16:31:27"
@@ -433,5 +429,9 @@
     "guid": "[ANi] Sousou no Frieren S02 /  葬送的芙莉莲 第二季 - 33 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "葬送的芙莉莲 第二季",
     "time": "2026-01-16 23:01:47"
+  },
+  {
+    "guid": "[ANi] Fatestrange Fake /  Fate／strange Fake - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "name": "Fate/strange Fake"
   }
 ]
