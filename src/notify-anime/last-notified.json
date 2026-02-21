@@ -386,10 +386,6 @@
     "time": "2026-01-16 23:01:47"
   },
   {
-    "guid": "[ANi] Fatestrange Fake /  Fate／strange Fake - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "Fate/strange Fake"
-  },
-  {
     "guid": "[ANi] GNOSIA /  GNOSIA - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "古诺希亚",
     "time": "2025-10-26 00:31:47"
@@ -433,5 +429,9 @@
     "guid": "[ANi] Champignon Witch /  蘑菇魔女 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "蘑菇魔女",
     "time": "2026-01-16 01:31:29"
+  },
+  {
+    "guid": "[ANi] Fatestrange Fake /  Fate／strange Fake - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "name": "Fate/strange Fake"
   }
 ]
