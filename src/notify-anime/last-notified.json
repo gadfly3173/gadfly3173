@@ -376,11 +376,6 @@
     "time": "2026-01-13 22:01:59"
   },
   {
-    "guid": "[ANi] GNOSIA /  GNOSIA - 20 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "古诺希亚",
-    "time": "2025-10-26 00:31:47"
-  },
-  {
     "guid": "[ANi] Kayachan Isnt Scary /  神八小妹不可怕 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "神八小妹不可怕",
     "time": "2026-01-11 16:32:51"
@@ -433,5 +428,10 @@
   {
     "guid": "[ANi] Fatestrange Fake /  Fate／strange Fake - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
     "name": "Fate/strange Fake"
+  },
+  {
+    "guid": "[ANi] GNOSIA /  GNOSIA - 21 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "name": "古诺希亚",
+    "time": "2025-10-26 00:31:47"
   }
 ]
