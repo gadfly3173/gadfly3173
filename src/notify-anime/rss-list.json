@@ -24,14 +24,41 @@
     "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3942&subgroupid=583"
   },
   {
-    "name": "公鸡斗士",
-    "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3886&subgroupid=370"
-  },
-  {
     "name": "小书痴的下克上 〜为了成为图书管理员而不择手段〜 领主的养女",
     "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3953&subgroupid=357",
     "excludeKeywords": [
       "繁"
     ]
+  },
+  {
+    "name": "魔法姐妹露露特莉莉",
+    "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3929&subgroupid=583"
+  },
+  {
+    "name": "淡岛百景",
+    "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3884&subgroupid=583"
+  },
+  {
+    "name": "Re：从零开始的异世界生活 第四季 丧失篇",
+    "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3951&subgroupid=583"
+  },
+  {
+    "name": "上伊那牡丹，酒醉身姿似百合花般",
+    "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3905&subgroupid=583"
+  },
+  {
+    "name": "尖帽子的魔法工房",
+    "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3899&subgroupid=1231",
+    "excludeKeywords": [
+      "AI"
+    ]
+  },
+  {
+    "name": "复制品的我也会谈恋爱。",
+    "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3907&subgroupid=583"
+  },
+  {
+    "name": "女仆小姐的贪吃日常",
+    "link": "https://mikanani.me/RSS/Bangumi?bangumiId=3890&subgroupid=583"
   }
 ]
