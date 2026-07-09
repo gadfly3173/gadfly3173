@@ -33,7 +33,7 @@ TypeScript            1 hr 26 mins          ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-[![Gadfly's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadfly3173&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Gadfly's GitHub stats](https://github-stats-extended.vercel.app/api?username=gadfly3173&show_icons=true&theme=material-palenight)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **gadfly3173/gadfly3173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
