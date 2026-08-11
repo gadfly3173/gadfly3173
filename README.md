@@ -35,6 +35,8 @@ JSON              1 hr 14 mins          ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 [![Gadfly's GitHub stats](https://github-stats-extended.vercel.app/api?username=gadfly3173&show_icons=true&theme=material-palenight)](https://github.com/stats-organization/github-stats-extended)
 
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/gadfly3173?lang=zh)](https://ghfind.com/u/gadfly3173?ref=badge)
+
 <!--
 **gadfly3173/gadfly3173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
