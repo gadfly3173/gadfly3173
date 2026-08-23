@@ -5,57 +5,76 @@ on:
   schedule:
     - cron: "0/30 0-16 * * *"
 
+permissions:
+  contents: write
+
+# Both scheduled jobs write to the default branch, so let one finish its commit before another starts.
+concurrency:
+  group: automated-master-updates
+  cancel-in-progress: false
+
 env:
-  GIT_USER: Gadfly
-  GIT_EMAIL: gadfly@gadfly.vip
   TZ: Asia/Shanghai
 
 jobs:
   notify-anime-update:
-    name: 提醒动画更新 on node ${{ matrix.node-version }} and ${{ matrix.os }}
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        os: [ubuntu-latest]
-        node-version: [22.x]
+    name: 提醒动画更新
+    runs-on: ubuntu-24.04
 
     steps:
-      - name: Setup Git
-        run: |
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-
-      - name: Install SSH key
-        uses: shimataro/ssh-key-action@v2
-        with:
-          key: ${{ secrets.DEPLOY_PRI }}
-          known_hosts: 'github.com'
-
       - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v4
+        uses: actions/checkout@v7
         with:
-          node-version: ${{ matrix.node-version }}
+          persist-credentials: true
+
+      - name: Configure Git
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+
+      - name: Use Node.js 22.x
+        uses: actions/setup-node@v7
+        with:
+          node-version: 22.x
           cache: yarn
 
       - name: Install dependencies
-        run: |
-          yarn
+        run: yarn install --frozen-lockfile --non-interactive
 
-      - name: execute script
+      - name: Execute script with retries
+        env:
+          MAIL_USER: ${{ secrets.MAIL_USER }}
+          MAIL_PASS: ${{ secrets.MAIL_PASS }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
         run: |
-          yarn notify-anime -mailUser="${{ secrets.MAIL_USER }}" -mailPass="${{ secrets.MAIL_PASS }}" -mailFrom="${{ secrets.MAIL_FROM }}" -mailTo="${{ secrets.MAIL_TO }}"
+          for attempt in 1 2 3; do
+            echo "Running anime notification attempt ${attempt}/3"
+            if yarn notify-anime \
+              "-mailUser=${MAIL_USER}" \
+              "-mailPass=${MAIL_PASS}" \
+              "-mailFrom=${MAIL_FROM}" \
+              "-mailTo=${MAIL_TO}"; then
+              exit 0
+            fi
+
+            if [ "${attempt}" -lt 3 ]; then
+              delay=$((attempt * 30))
+              echo "Notification failed; retrying in ${delay} seconds"
+              sleep "${delay}"
+            fi
+          done
+
+          exit 1
 
       - name: Check if there are any changes
         id: verify_diff
         run: |
-          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+          git diff --quiet -- src/notify-anime/last-notified.json || echo "changed=true" >> "$GITHUB_OUTPUT"
 
-      - name: submit updated files
+      - name: Submit updated files
         if: steps.verify_diff.outputs.changed == 'true'
         run: |
-          git add -A
+          git add src/notify-anime/last-notified.json
           git commit -m "update anime"
-          git push
+          git push origin "HEAD:${GITHUB_REF_NAME}"
