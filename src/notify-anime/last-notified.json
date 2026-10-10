@@ -585,11 +585,6 @@
     "time": "2026-08-01 00:00:50"
   },
   {
-    "guid": "[ANi]  至高之力 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
-    "name": "至高之力",
-    "time": "2026-10-04 00:00:45"
-  },
-  {
     "guid": "【今晚月色真美】[青之箱 第二季 / アオのハコ Season 2 / Ao no Hako (2026)][26][WebRip][1080P][AVC-8bit][AAC][繁日内嵌]",
     "name": "青之箱 第二季",
     "time": "2026-10-05 12:37:20"
@@ -603,5 +598,10 @@
     "guid": "[SweetSub][冰之城墙][Seihantai na Kimi to Boku][16][WebRip][1080P][AVC 8bit][简日双语]",
     "name": "冰之城墙 第二季",
     "time": "2026-10-02 21:50:23"
+  },
+  {
+    "guid": "[ANi] VERTEX FORCE /  至高之力 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "name": "至高之力",
+    "time": "2026-10-04 00:00:45"
   }
 ]
